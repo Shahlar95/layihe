@@ -5,7 +5,9 @@ h1{
 p{
     color:rebeccapurple;
 }
-
 .power{
-    background-color: red;
+    background-color: yellow
+}
+span{
+    color yellow;
 }
